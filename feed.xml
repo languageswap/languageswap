@@ -3,7 +3,7 @@
     <title>Language Swap</title>
     <link href="https://www.languageswap.hu/feed.xml" rel="self" />
     <link href="https://www.languageswap.hu" />
-    <updated>2020-11-18T12:59:53+01:00</updated>
+    <updated>2020-11-18T14:23:58+01:00</updated>
     <author>
         <name>The Team</name>
     </author>
@@ -43,15 +43,17 @@
         <id>https://www.languageswap.hu/web-site-launched.html</id>
             <category term="News"/>
 
-        <updated>2020-11-18T12:53:39+01:00</updated>
+        <updated>2020-11-18T14:23:58+01:00</updated>
             <summary>
                 <![CDATA[
-                    We are thrilled to announce, that Language Swap Web Site is alive!
+                    We are thrilled to announce, that Language Swap Web Site is alive! The site will grow as we have time to maintain it.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>We are thrilled to announce, that Language Swap Web Site is alive!</p>
+<figure class="post__image"><img loading="lazy"  src="https://www.languageswap.hu/media/posts/1/siora-photography-zJ5kJoAnUhI-unsplash.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.languageswap.hu/media/posts/1/responsive/siora-photography-zJ5kJoAnUhI-unsplash-xs.jpg 300w ,https://www.languageswap.hu/media/posts/1/responsive/siora-photography-zJ5kJoAnUhI-unsplash-sm.jpg 480w ,https://www.languageswap.hu/media/posts/1/responsive/siora-photography-zJ5kJoAnUhI-unsplash-md.jpg 768w ,https://www.languageswap.hu/media/posts/1/responsive/siora-photography-zJ5kJoAnUhI-unsplash-lg.jpg 1024w ,https://www.languageswap.hu/media/posts/1/responsive/siora-photography-zJ5kJoAnUhI-unsplash-xl.jpg 1360w ,https://www.languageswap.hu/media/posts/1/responsive/siora-photography-zJ5kJoAnUhI-unsplash-2xl.jpg 1600w"  alt="" width="5184" height="3456"></figure>
+<p>The site will grow as we have time to maintain it. Or, it may remain just as a call-card, we will see (but time will say)!</p>
             ]]>
         </content>
     </entry>
