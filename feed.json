@@ -27,15 +27,15 @@
             "id": "https://www.languageswap.hu/contact-us.html",
             "url": "https://www.languageswap.hu/contact-us.html",
             "title": "Contact Us",
-            "summary": "You can reach to use in following ways:FacebookDiscordemail info@languageswap.hu",
-            "content_html": "<p>You can reach to use in following ways:</p>\n<ul>\n<li>Facebook</li>\n<li>Discord</li>\n<li>email info@languageswap.hu</li>\n</ul>",
+            "summary": "You can reach to use in following ways:Facebook TBDDiscord TBDemail info@languageswap.hu TBD",
+            "content_html": "<p>You can reach to use in following ways:</p>\n<ul>\n<li>Facebook TBD</li>\n<li>Discord TBD</li>\n<li>email <a href=\"mailto:info@languageswap.hu\">info@languageswap.hu</a> TBD</li>\n</ul>",
             "author": {
                 "name": "The Team"
             },
             "tags": [
             ],
             "date_published": "2020-11-18T12:57:42+01:00",
-            "date_modified": "2020-11-18T14:28:50+01:00"
+            "date_modified": "2020-11-18T14:37:56+01:00"
         },
         {
             "id": "https://www.languageswap.hu/web-site-launched.html",
