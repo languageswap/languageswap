@@ -3,7 +3,7 @@
     <title>Language Swap</title>
     <link href="https://www.languageswap.hu/feed.xml" rel="self" />
     <link href="https://www.languageswap.hu" />
-    <updated>2020-11-18T18:20:51+01:00</updated>
+    <updated>2020-11-18T18:23:02+01:00</updated>
     <author>
         <name>The Team</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.languageswap.hu/korona-mozi.html</id>
             <category term="Events"/>
 
-        <updated>2020-11-18T18:17:58+01:00</updated>
+        <updated>2020-11-18T18:22:47+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.languageswap.hu/media/posts/4/covid-19-1190x574-2-full-3.jpg" alt="" />
@@ -28,8 +28,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://www.languageswap.hu/media/posts/4/covid-19-1190x574-2-full-3.jpg" alt="" />
-                <p>As virtual continuation to "Bobvárosi Mozi" event series, we started "Korona Mozi", that, yes, you guessed, happens online.</p>
-<p>Stay tuned for latest news!</p>
+                <p>As virtual continuation to "Bobvárosi Mozi" event series, we started "Korona Mozi", that, yes, you guessed, happens online. Stay tuned for latest news!</p>
             ]]>
         </content>
     </entry>
@@ -42,7 +41,7 @@
         <id>https://www.languageswap.hu/weve-gone-virtual.html</id>
             <category term="News"/>
 
-        <updated>2020-11-18T18:18:09+01:00</updated>
+        <updated>2020-11-18T18:22:51+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.languageswap.hu/media/posts/3/markus-spiske-uBcgQA7fwEA-unsplash.jpg" alt="" />
@@ -64,7 +63,7 @@
         <link href="https://www.languageswap.hu/contact-us.html"/>
         <id>https://www.languageswap.hu/contact-us.html</id>
 
-        <updated>2020-11-18T18:18:48+01:00</updated>
+        <updated>2020-11-18T18:22:53+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.languageswap.hu/media/posts/2/marko-pekic-IpLa37Uj2Dw-unsplash.jpg" alt="" />
@@ -92,7 +91,7 @@
         <id>https://www.languageswap.hu/web-site-launched.html</id>
             <category term="News"/>
 
-        <updated>2020-11-18T18:20:51+01:00</updated>
+        <updated>2020-11-18T18:23:02+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.languageswap.hu/media/posts/1/siora-photography-zJ5kJoAnUhI-unsplash-2.jpg" alt="" />
@@ -102,9 +101,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://www.languageswap.hu/media/posts/1/siora-photography-zJ5kJoAnUhI-unsplash-2.jpg" alt="" />
-                <p>We are thrilled to announce: Language Swap Web Site is alive!</p>
-<p>The site will grow as our free time allows to maintain it.</p>
-<p>Or, it may remain just as a call-card, we will see, but time will say!</p>
+                <p>We are thrilled to announce: Language Swap Web Site is alive! The site will grow as our free time allows to maintain it. Or, it may remain just as a call-card, we will see, but time will say!</p>
             ]]>
         </content>
     </entry>

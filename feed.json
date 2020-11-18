@@ -14,7 +14,7 @@
             "url": "https://www.languageswap.hu/korona-mozi.html",
             "title": "Korona Mozi",
             "summary": "As virtual continuation to \"Bobvárosi Mozi\" event series, we started \"Korona Mozi\", that, yes, you guessed, happens online. Stay tuned for latest news!",
-            "content_html": "<p>As virtual continuation to \"Bobvárosi Mozi\" event series, we started \"Korona Mozi\", that, yes, you guessed, happens online.</p>\n<p>Stay tuned for latest news!</p>",
+            "content_html": "<p>As virtual continuation to \"Bobvárosi Mozi\" event series, we started \"Korona Mozi\", that, yes, you guessed, happens online. Stay tuned for latest news!</p>",
             "image": "https://www.languageswap.hu/media/posts/4/covid-19-1190x574-2-full-3.jpg",
             "author": {
                 "name": "The Team"
@@ -23,7 +23,7 @@
                    "Events"
             ],
             "date_published": "2020-11-18T15:06:58+01:00",
-            "date_modified": "2020-11-18T18:17:58+01:00"
+            "date_modified": "2020-11-18T18:22:47+01:00"
         },
         {
             "id": "https://www.languageswap.hu/weve-gone-virtual.html",
@@ -39,7 +39,7 @@
                    "News"
             ],
             "date_published": "2020-11-18T14:36:59+01:00",
-            "date_modified": "2020-11-18T18:18:09+01:00"
+            "date_modified": "2020-11-18T18:22:51+01:00"
         },
         {
             "id": "https://www.languageswap.hu/contact-us.html",
@@ -54,14 +54,14 @@
             "tags": [
             ],
             "date_published": "2020-11-18T12:57:42+01:00",
-            "date_modified": "2020-11-18T18:18:48+01:00"
+            "date_modified": "2020-11-18T18:22:53+01:00"
         },
         {
             "id": "https://www.languageswap.hu/web-site-launched.html",
             "url": "https://www.languageswap.hu/web-site-launched.html",
             "title": "Web Site Launched!",
             "summary": "We are thrilled to announce: Language Swap Web Site is alive! The site will grow as our free time allows to maintain it.",
-            "content_html": "<p>We are thrilled to announce: Language Swap Web Site is alive!</p>\n<p>The site will grow as our free time allows to maintain it.</p>\n<p>Or, it may remain just as a call-card, we will see, but time will say!</p>",
+            "content_html": "<p>We are thrilled to announce: Language Swap Web Site is alive! The site will grow as our free time allows to maintain it. Or, it may remain just as a call-card, we will see, but time will say!</p>",
             "image": "https://www.languageswap.hu/media/posts/1/siora-photography-zJ5kJoAnUhI-unsplash-2.jpg",
             "author": {
                 "name": "The Team"
@@ -70,7 +70,7 @@
                    "News"
             ],
             "date_published": "2020-11-18T12:53:39+01:00",
-            "date_modified": "2020-11-18T18:20:51+01:00"
+            "date_modified": "2020-11-18T18:23:02+01:00"
         }
     ]
 }
