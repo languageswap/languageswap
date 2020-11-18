@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Language Swap",
     "description": "",
-    "home_page_url": "https://languageswap.hu",
-    "feed_url": "https://languageswap.hu/feed.json",
+    "home_page_url": "https://www.languageswap.hu",
+    "feed_url": "https://www.languageswap.hu/feed.json",
     "user_comment": "",
     "author": {
         "name": "The Team"
     },
     "items": [
         {
-            "id": "https://languageswap.hu/contact-us.html",
-            "url": "https://languageswap.hu/contact-us.html",
+            "id": "https://www.languageswap.hu/contact-us.html",
+            "url": "https://www.languageswap.hu/contact-us.html",
             "title": "Contact Us",
             "summary": "You can reach to use in following ways:FacebookDiscordemail info@languageswap.hu",
             "content_html": "<p>You can reach to use in following ways:</p>\n<ul>\n<li>Facebook</li>\n<li>Discord</li>\n<li>email info@languageswap.hu</li>\n</ul>",
@@ -24,8 +24,8 @@
             "date_modified": "2020-11-18T12:59:53+01:00"
         },
         {
-            "id": "https://languageswap.hu/web-site-launched.html",
-            "url": "https://languageswap.hu/web-site-launched.html",
+            "id": "https://www.languageswap.hu/web-site-launched.html",
+            "url": "https://www.languageswap.hu/web-site-launched.html",
             "title": "Web Site Launched!",
             "summary": "We are thrilled to announce, that Language Swap Web Site is alive!",
             "content_html": "<p>We are thrilled to announce, that Language Swap Web Site is alive!</p>",
