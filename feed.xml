@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Language Swap</title>
-    <link href="https://languageswap.github.io/languageswap/feed.xml" rel="self" />
-    <link href="https://languageswap.github.io/languageswap" />
+    <link href="https://languageswap.hu/feed.xml" rel="self" />
+    <link href="https://languageswap.hu" />
     <updated>2020-11-18T12:59:53+01:00</updated>
     <author>
         <name>The Team</name>
     </author>
-    <id>https://languageswap.github.io/languageswap</id>
+    <id>https://languageswap.hu</id>
 
     <entry>
         <title>Contact Us</title>
         <author>
             <name>The Team</name>
         </author>
-        <link href="https://languageswap.github.io/languageswap/contact-us.html"/>
-        <id>https://languageswap.github.io/languageswap/contact-us.html</id>
+        <link href="https://languageswap.hu/contact-us.html"/>
+        <id>https://languageswap.hu/contact-us.html</id>
 
         <updated>2020-11-18T12:59:53+01:00</updated>
             <summary>
@@ -39,8 +39,8 @@
         <author>
             <name>The Team</name>
         </author>
-        <link href="https://languageswap.github.io/languageswap/web-site-launched.html"/>
-        <id>https://languageswap.github.io/languageswap/web-site-launched.html</id>
+        <link href="https://languageswap.hu/web-site-launched.html"/>
+        <id>https://languageswap.hu/web-site-launched.html</id>
             <category term="News"/>
 
         <updated>2020-11-18T12:53:39+01:00</updated>
