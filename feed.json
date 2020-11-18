@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.languageswap.hu/about-language-swap.html",
+            "url": "https://www.languageswap.hu/about-language-swap.html",
+            "title": "About Language Swap",
+            "summary": "This part should describe what Language Swap is in few sentences...",
+            "content_html": "<p>This part should describe what Language Swap is in few sentences...</p>",
+            "author": {
+                "name": "WWW Team"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-18T21:37:49+01:00",
+            "date_modified": "2020-11-18T21:39:12+01:00"
+        },
+        {
             "id": "https://www.languageswap.hu/korona-mozi.html",
             "url": "https://www.languageswap.hu/korona-mozi.html",
             "title": "Korona Mozi",
