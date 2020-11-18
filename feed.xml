@@ -3,7 +3,7 @@
     <title>Language Swap</title>
     <link href="https://www.languageswap.hu/feed.xml" rel="self" />
     <link href="https://www.languageswap.hu" />
-    <updated>2020-11-18T14:37:56+01:00</updated>
+    <updated>2020-11-18T14:38:45+01:00</updated>
     <author>
         <name>The Team</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://www.languageswap.hu/weve-gone-virtual.html"/>
         <id>https://www.languageswap.hu/weve-gone-virtual.html</id>
+            <category term="News"/>
 
-        <updated>2020-11-18T14:36:59+01:00</updated>
+        <updated>2020-11-18T14:38:45+01:00</updated>
             <summary>
                 <![CDATA[
                     Due COVID-19, our meetups are not happening currently, and we were forced to go fully virtual. You can reach us via Contact page.
