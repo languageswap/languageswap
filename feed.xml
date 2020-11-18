@@ -3,7 +3,7 @@
     <title>Language Swap</title>
     <link href="https://www.languageswap.hu/feed.xml" rel="self" />
     <link href="https://www.languageswap.hu" />
-    <updated>2020-11-18T18:43:02+01:00</updated>
+    <updated>2020-11-18T18:46:05+01:00</updated>
     <author>
         <name>WWW Team</name>
     </author>
@@ -80,7 +80,7 @@
         </content>
     </entry>
     <entry>
-        <title>Web Site Launched!</title>
+        <title>Hello!</title>
         <author>
             <name>WWW Team</name>
         </author>
@@ -88,7 +88,7 @@
         <id>https://www.languageswap.hu/web-site-launched.html</id>
             <category term="News"/>
 
-        <updated>2020-11-18T18:37:02+01:00</updated>
+        <updated>2020-11-18T18:46:05+01:00</updated>
             <summary>
                 <![CDATA[
                     We are thrilled to announce: Language Swap Web Site is alive! The site may grow as our free time allows to maintain it.

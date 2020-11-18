@@ -56,7 +56,7 @@
         {
             "id": "https://www.languageswap.hu/web-site-launched.html",
             "url": "https://www.languageswap.hu/web-site-launched.html",
-            "title": "Web Site Launched!",
+            "title": "Hello!",
             "summary": "We are thrilled to announce: Language Swap Web Site is alive! The site may grow as our free time allows to maintain it.",
             "content_html": "<p>We are thrilled to announce: Language Swap Web Site is alive! The site may grow as our free time allows to maintain it. Or, it may remain just as a call-card, we will see, but time will say!</p>\n<p>Have fun with us!</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.languageswap.hu/media/posts/1/siora-photography-zJ5kJoAnUhI-unsplash.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.languageswap.hu/media/posts/1/responsive/siora-photography-zJ5kJoAnUhI-unsplash-xs.jpg 300w ,https://www.languageswap.hu/media/posts/1/responsive/siora-photography-zJ5kJoAnUhI-unsplash-sm.jpg 480w ,https://www.languageswap.hu/media/posts/1/responsive/siora-photography-zJ5kJoAnUhI-unsplash-md.jpg 768w ,https://www.languageswap.hu/media/posts/1/responsive/siora-photography-zJ5kJoAnUhI-unsplash-lg.jpg 1024w ,https://www.languageswap.hu/media/posts/1/responsive/siora-photography-zJ5kJoAnUhI-unsplash-xl.jpg 1360w ,https://www.languageswap.hu/media/posts/1/responsive/siora-photography-zJ5kJoAnUhI-unsplash-2xl.jpg 1600w\"  alt=\"\" width=\"5184\" height=\"3456\"></figure>",
             "author": {
@@ -66,7 +66,7 @@
                    "News"
             ],
             "date_published": "2020-11-18T12:53:39+01:00",
-            "date_modified": "2020-11-18T18:37:02+01:00"
+            "date_modified": "2020-11-18T18:46:05+01:00"
         }
     ]
 }
