@@ -3,12 +3,33 @@
     <title>Language Swap</title>
     <link href="https://www.languageswap.hu/feed.xml" rel="self" />
     <link href="https://www.languageswap.hu" />
-    <updated>2020-11-18T15:04:41+01:00</updated>
+    <updated>2020-11-18T15:06:58+01:00</updated>
     <author>
         <name>The Team</name>
     </author>
     <id>https://www.languageswap.hu</id>
 
+    <entry>
+        <title>Korona Mozi</title>
+        <author>
+            <name>The Team</name>
+        </author>
+        <link href="https://www.languageswap.hu/korona-mozi.html"/>
+        <id>https://www.languageswap.hu/korona-mozi.html</id>
+            <category term="Event"/>
+
+        <updated>2020-11-18T15:06:58+01:00</updated>
+            <summary>
+                <![CDATA[
+                    As virtual continuation to "Bobvárosi Mozi" event series, we started "Korona Mozi", that, yes, you guessed, happens online.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>As virtual continuation to "Bobvárosi Mozi" event series, we started "Korona Mozi", that, yes, you guessed, happens online.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>We&#x27;ve gone virtual!</title>
         <author>

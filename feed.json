@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.languageswap.hu/korona-mozi.html",
+            "url": "https://www.languageswap.hu/korona-mozi.html",
+            "title": "Korona Mozi",
+            "summary": "As virtual continuation to \"Bobvárosi Mozi\" event series, we started \"Korona Mozi\", that, yes, you guessed, happens online.",
+            "content_html": "<p>As virtual continuation to \"Bobvárosi Mozi\" event series, we started \"Korona Mozi\", that, yes, you guessed, happens online.</p>",
+            "author": {
+                "name": "The Team"
+            },
+            "tags": [
+                   "Event"
+            ],
+            "date_published": "2020-11-18T15:06:58+01:00",
+            "date_modified": "2020-11-18T15:06:58+01:00"
+        },
+        {
             "id": "https://www.languageswap.hu/weve-gone-virtual.html",
             "url": "https://www.languageswap.hu/weve-gone-virtual.html",
             "title": "We&#x27;ve gone virtual!",
