@@ -3,16 +3,16 @@
     <title>Language Swap</title>
     <link href="https://www.languageswap.hu/feed.xml" rel="self" />
     <link href="https://www.languageswap.hu" />
-    <updated>2020-11-18T18:41:26+01:00</updated>
+    <updated>2020-11-18T18:43:02+01:00</updated>
     <author>
-        <name>The Team</name>
+        <name>WWW Team</name>
     </author>
     <id>https://www.languageswap.hu</id>
 
     <entry>
         <title>Korona Mozi</title>
         <author>
-            <name>The Team</name>
+            <name>WWW Team</name>
         </author>
         <link href="https://www.languageswap.hu/korona-mozi.html"/>
         <id>https://www.languageswap.hu/korona-mozi.html</id>
@@ -34,7 +34,7 @@
     <entry>
         <title>We&#x27;ve gone virtual!</title>
         <author>
-            <name>The Team</name>
+            <name>WWW Team</name>
         </author>
         <link href="https://www.languageswap.hu/weve-gone-virtual.html"/>
         <id>https://www.languageswap.hu/weve-gone-virtual.html</id>
@@ -57,12 +57,12 @@
     <entry>
         <title>Contact Us</title>
         <author>
-            <name>The Team</name>
+            <name>WWW Team</name>
         </author>
         <link href="https://www.languageswap.hu/contact-us.html"/>
         <id>https://www.languageswap.hu/contact-us.html</id>
 
-        <updated>2020-11-18T18:41:26+01:00</updated>
+        <updated>2020-11-18T18:43:02+01:00</updated>
             <summary>
                 <![CDATA[
                     Reach out and get in touch with us!Visit our group on FacebookJoin our Discord Serveror write us and email info@languageswap.hu
@@ -72,8 +72,8 @@
             <![CDATA[
                 <p>Reach out and get in touch with us!</p>
 <ul>
-<li>Visit our <a href="https://www.facebook.com/groups/816840211691162">group on Facebook</a></li>
-<li>Join our <a href="https://discord.gg/BxRuMZBJ">Discord Server</a></li>
+<li>Visit our <a href="https://www.facebook.com/groups/816840211691162" target="_blank" rel="noopener noreferrer">group on Facebook</a></li>
+<li>Join our <a href="https://discord.gg/BxRuMZBJ" target="_blank" rel="noopener noreferrer">Discord Server</a></li>
 <li>or write us and email <a href="mailto:info@languageswap.hu">info@languageswap.hu</a></li>
 </ul>
             ]]>
@@ -82,7 +82,7 @@
     <entry>
         <title>Web Site Launched!</title>
         <author>
-            <name>The Team</name>
+            <name>WWW Team</name>
         </author>
         <link href="https://www.languageswap.hu/web-site-launched.html"/>
         <id>https://www.languageswap.hu/web-site-launched.html</id>
