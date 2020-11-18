@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.languageswap.hu/weve-gone-virtual.html",
+            "url": "https://www.languageswap.hu/weve-gone-virtual.html",
+            "title": "We&#x27;ve gone virtual!",
+            "summary": "Due COVID-19, our meetups are not happening currently, and we were forced to go fully virtual. You can reach us via Contact page.",
+            "content_html": "<p>Due COVID-19, our meetups are not happening currently, and we were forced to go fully virtual. You can reach us via <a href=\"https://www.languageswap.hu/contact-us.html\"></a><a href=\"https://www.languageswap.hu/contact-us.html\">Contact page</a>.</p>",
+            "author": {
+                "name": "The Team"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-18T14:36:59+01:00",
+            "date_modified": "2020-11-18T14:36:59+01:00"
+        },
+        {
             "id": "https://www.languageswap.hu/contact-us.html",
             "url": "https://www.languageswap.hu/contact-us.html",
             "title": "Contact Us",
@@ -21,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2020-11-18T12:57:42+01:00",
-            "date_modified": "2020-11-18T12:59:53+01:00"
+            "date_modified": "2020-11-18T14:28:50+01:00"
         },
         {
             "id": "https://www.languageswap.hu/web-site-launched.html",

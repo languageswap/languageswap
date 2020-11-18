@@ -3,12 +3,32 @@
     <title>Language Swap</title>
     <link href="https://www.languageswap.hu/feed.xml" rel="self" />
     <link href="https://www.languageswap.hu" />
-    <updated>2020-11-18T14:23:58+01:00</updated>
+    <updated>2020-11-18T14:36:59+01:00</updated>
     <author>
         <name>The Team</name>
     </author>
     <id>https://www.languageswap.hu</id>
 
+    <entry>
+        <title>We&#x27;ve gone virtual!</title>
+        <author>
+            <name>The Team</name>
+        </author>
+        <link href="https://www.languageswap.hu/weve-gone-virtual.html"/>
+        <id>https://www.languageswap.hu/weve-gone-virtual.html</id>
+
+        <updated>2020-11-18T14:36:59+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Due COVID-19, our meetups are not happening currently, and we were forced to go fully virtual. You can reach us via Contact page.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Due COVID-19, our meetups are not happening currently, and we were forced to go fully virtual. You can reach us via <a href="https://www.languageswap.hu/contact-us.html"></a><a href="https://www.languageswap.hu/contact-us.html">Contact page</a>.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Contact Us</title>
         <author>
@@ -17,7 +37,7 @@
         <link href="https://www.languageswap.hu/contact-us.html"/>
         <id>https://www.languageswap.hu/contact-us.html</id>
 
-        <updated>2020-11-18T12:59:53+01:00</updated>
+        <updated>2020-11-18T14:28:50+01:00</updated>
             <summary>
                 <![CDATA[
                     You can reach to use in following ways:FacebookDiscordemail info@languageswap.hu
