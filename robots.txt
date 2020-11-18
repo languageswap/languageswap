@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://languageswap.github.io/languageswap/sitemap.xml

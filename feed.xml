@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Language Swap</title>
+    <link href="https://languageswap.github.io/languageswap/feed.xml" rel="self" />
+    <link href="https://languageswap.github.io/languageswap" />
+    <updated>2020-11-18T12:59:53+01:00</updated>
+    <author>
+        <name>The Team</name>
+    </author>
+    <id>https://languageswap.github.io/languageswap</id>
+
+    <entry>
+        <title>Contact Us</title>
+        <author>
+            <name>The Team</name>
+        </author>
+        <link href="https://languageswap.github.io/languageswap/contact-us.html"/>
+        <id>https://languageswap.github.io/languageswap/contact-us.html</id>
+
+        <updated>2020-11-18T12:59:53+01:00</updated>
+            <summary>
+                <![CDATA[
+                    You can reach to use in following ways:FacebookDiscordemail info@languageswap.hu
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>You can reach to use in following ways:</p>
+<ul>
+<li>Facebook</li>
+<li>Discord</li>
+<li>email info@languageswap.hu</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Web Site Launched!</title>
+        <author>
+            <name>The Team</name>
+        </author>
+        <link href="https://languageswap.github.io/languageswap/web-site-launched.html"/>
+        <id>https://languageswap.github.io/languageswap/web-site-launched.html</id>
+            <category term="News"/>
+
+        <updated>2020-11-18T12:53:39+01:00</updated>
+            <summary>
+                <![CDATA[
+                    We are thrilled to announce, that Language Swap Web Site is alive!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We are thrilled to announce, that Language Swap Web Site is alive!</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
