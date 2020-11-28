@@ -10,18 +10,33 @@
     },
     "items": [
         {
+            "id": "https://www.languageswap.hu/wednesday-its-swap-time.html",
+            "url": "https://www.languageswap.hu/wednesday-its-swap-time.html",
+            "title": "Wednesday? It&#x27;s Swap Time!",
+            "summary": "Our \"standard\" meetups in Szeged City is overruled by current COVID-19 pandemic, hence we had to move \"online\". Join us on Discord, see&hellip;",
+            "content_html": "<p>Our \"standard\" meetups in Szeged City is overruled by current COVID-19 pandemic, hence we had to move \"online\". Join us on Discord, see <a href=\"https://www.languageswap.hu/contact-us.html\"></a> <a href=\"https://www.languageswap.hu/contact-us.html\">Contact Us</a> page.</p>",
+            "author": {
+                "name": "WWW Team"
+            },
+            "tags": [
+                   "Events"
+            ],
+            "date_published": "2020-11-28T18:18:29+01:00",
+            "date_modified": "2020-11-28T18:18:29+01:00"
+        },
+        {
             "id": "https://www.languageswap.hu/about-language-swap.html",
             "url": "https://www.languageswap.hu/about-language-swap.html",
             "title": "About Language Swap",
-            "summary": "This part should describe what Language Swap is in few sentences...",
-            "content_html": "<p>This part should describe what Language Swap is in few sentences...</p>",
+            "summary": "This part should describe what Language Swap is in few sentences... but I'd rather leave this part to Bob.",
+            "content_html": "<p>This part should describe what Language Swap is in few sentences... but I'd rather leave this part to Bob.</p>",
             "author": {
                 "name": "WWW Team"
             },
             "tags": [
             ],
             "date_published": "2020-11-18T21:37:49+01:00",
-            "date_modified": "2020-11-18T21:40:27+01:00"
+            "date_modified": "2020-11-28T18:11:14+01:00"
         },
         {
             "id": "https://www.languageswap.hu/korona-mozi.html",
@@ -36,7 +51,7 @@
                    "Events"
             ],
             "date_published": "2020-11-18T15:06:58+01:00",
-            "date_modified": "2020-11-18T18:35:44+01:00"
+            "date_modified": "2020-11-28T18:11:19+01:00"
         },
         {
             "id": "https://www.languageswap.hu/weve-gone-virtual.html",
@@ -80,7 +95,7 @@
                    "News"
             ],
             "date_published": "2020-11-18T12:53:39+01:00",
-            "date_modified": "2020-11-18T18:46:05+01:00"
+            "date_modified": "2020-11-28T18:11:29+01:00"
         }
     ]
 }

@@ -3,12 +3,33 @@
     <title>Language Swap</title>
     <link href="https://www.languageswap.hu/feed.xml" rel="self" />
     <link href="https://www.languageswap.hu" />
-    <updated>2020-11-18T21:40:27+01:00</updated>
+    <updated>2020-11-28T18:18:29+01:00</updated>
     <author>
         <name>WWW Team</name>
     </author>
     <id>https://www.languageswap.hu</id>
 
+    <entry>
+        <title>Wednesday? It&#x27;s Swap Time!</title>
+        <author>
+            <name>WWW Team</name>
+        </author>
+        <link href="https://www.languageswap.hu/wednesday-its-swap-time.html"/>
+        <id>https://www.languageswap.hu/wednesday-its-swap-time.html</id>
+            <category term="Events"/>
+
+        <updated>2020-11-28T18:18:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Our "standard" meetups in Szeged City is overruled by current COVID-19 pandemic, hence we had to move "online". Join us on Discord, see&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Our "standard" meetups in Szeged City is overruled by current COVID-19 pandemic, hence we had to move "online". Join us on Discord, see <a href="https://www.languageswap.hu/contact-us.html"></a> <a href="https://www.languageswap.hu/contact-us.html">Contact Us</a> page.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About Language Swap</title>
         <author>
@@ -17,15 +38,15 @@
         <link href="https://www.languageswap.hu/about-language-swap.html"/>
         <id>https://www.languageswap.hu/about-language-swap.html</id>
 
-        <updated>2020-11-18T21:40:27+01:00</updated>
+        <updated>2020-11-28T18:11:14+01:00</updated>
             <summary>
                 <![CDATA[
-                    This part should describe what Language Swap is in few sentences...
+                    This part should describe what Language Swap is in few sentences... but I'd rather leave this part to Bob.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This part should describe what Language Swap is in few sentences...</p>
+                <p>This part should describe what Language Swap is in few sentences... but I'd rather leave this part to Bob.</p>
             ]]>
         </content>
     </entry>
@@ -38,7 +59,7 @@
         <id>https://www.languageswap.hu/korona-mozi.html</id>
             <category term="Events"/>
 
-        <updated>2020-11-18T18:35:44+01:00</updated>
+        <updated>2020-11-28T18:11:19+01:00</updated>
             <summary>
                 <![CDATA[
                     As (virtual) continuation to "Bobvárosi Mozi" event series, we started "Korona Mozi", that, you guessed, happens online.
@@ -108,7 +129,7 @@
         <id>https://www.languageswap.hu/web-site-launched.html</id>
             <category term="News"/>
 
-        <updated>2020-11-18T18:46:05+01:00</updated>
+        <updated>2020-11-28T18:11:29+01:00</updated>
             <summary>
                 <![CDATA[
                     We are thrilled to announce: Language Swap Web Site is alive! The site may grow as our free time allows to maintain it.
