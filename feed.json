@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.languageswap.hu/swaps-are-offline-again.html",
+            "url": "https://www.languageswap.hu/swaps-are-offline-again.html",
+            "title": "Swaps are offline again!",
+            "summary": "It's Wednesday, and it's swap time! See you at 20h in Corso Coffee!",
+            "content_html": "<p>It's Wednesday, and it's swap time! See you at 20h in Corso Coffee!</p>",
+            "author": {
+                "name": "WWW Team"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-30T19:43:35+02:00",
+            "date_modified": "2021-06-30T19:43:35+02:00"
+        },
+        {
             "id": "https://www.languageswap.hu/wednesday-its-swap-time.html",
             "url": "https://www.languageswap.hu/wednesday-its-swap-time.html",
             "title": "Wednesday? It&#x27;s Swap Time!",
@@ -42,7 +56,7 @@
             "id": "https://www.languageswap.hu/korona-mozi.html",
             "url": "https://www.languageswap.hu/korona-mozi.html",
             "title": "Korona Mozi",
-            "summary": "As (virtual) continuation to \"Bobvárosi Mozi\" event series, we started \"Korona Mozi\", that, you guessed, happens online.",
+            "summary": "As (virtual) continuation to \"Bobvárosi Mozi\" event series, we started \"Korona Mozi\", that, you guessed, happens online. ",
             "content_html": "<p>As (virtual) continuation to \"Bobvárosi Mozi\" event series, we started \"Korona Mozi\", that, you guessed, happens online.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.languageswap.hu/media/posts/4/covid-19-1190x574-2-full-2.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.languageswap.hu/media/posts/4/responsive/covid-19-1190x574-2-full-2-xs.jpg 300w ,https://www.languageswap.hu/media/posts/4/responsive/covid-19-1190x574-2-full-2-sm.jpg 480w ,https://www.languageswap.hu/media/posts/4/responsive/covid-19-1190x574-2-full-2-md.jpg 768w ,https://www.languageswap.hu/media/posts/4/responsive/covid-19-1190x574-2-full-2-lg.jpg 1024w ,https://www.languageswap.hu/media/posts/4/responsive/covid-19-1190x574-2-full-2-xl.jpg 1360w ,https://www.languageswap.hu/media/posts/4/responsive/covid-19-1190x574-2-full-2-2xl.jpg 1600w\"  alt=\"\" width=\"1420\" height=\"710\"></figure>",
             "author": {
                 "name": "WWW Team"
@@ -72,7 +86,7 @@
             "id": "https://www.languageswap.hu/contact-us.html",
             "url": "https://www.languageswap.hu/contact-us.html",
             "title": "Contact Us",
-            "summary": "Reach out and get in touch with us!Visit our group on FacebookJoin our Discord Serveror write us and email hello@languageswap.hu",
+            "summary": "Reach out and get in touch with us! Visit our group on Facebook Join our Discord Server or write us and email hello@languageswap.hu&hellip;",
             "content_html": "<p>Reach out and get in touch with us!</p>\n<ul>\n<li>Visit our <a href=\"https://www.facebook.com/groups/816840211691162\" target=\"_blank\" rel=\"noopener noreferrer\">group on Facebook</a></li>\n<li>Join our <a href=\"https://discord.gg/6q87X7fRTr\" target=\"_blank\" rel=\"noopener noreferrer\">Discord Server</a></li>\n<li>or write us and email <a href=\"mailto:hello@languageswap.hu\">hello@languageswap.hu</a></li>\n</ul>",
             "author": {
                 "name": "WWW Team"
